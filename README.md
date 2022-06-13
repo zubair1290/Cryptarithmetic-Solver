@@ -1,11 +1,18 @@
-# Tucil1-Stima Solve Cryptarithmetic 
+# Cryptarithmetic Solver
+Cryptarithmetic Solver is a program that solves a cryptarithm.
 
-# Deskripsi Singkat: 
-Program dibuat menggunakan bahasa C++ dengan algoritma brute force 
+# Description 
+Program created using c++ language with brute force algorithm.
 
-# Cara menggunakan program:
-1. Masukkan file yang berisi beberapa operand dengan jumlah operand maksimal 15 dan hasil penjumlahannya.
-2. Jalankan a.exe
+## Installation
+No requirement.
+
+## Usage
+1. Put a file named test.txt which contains several operands with a maximum number of 15 operands and the sum of their results.
+2. Run a.exe.
+
+# Screenshot
+
 
 # Author 
 Muhammad Zubair
